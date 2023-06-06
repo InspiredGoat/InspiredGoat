@@ -1,5 +1,8 @@
-### Hi there 👋
+## Programmer and CS student
 
+Very interested in software minimalism, system's programming, and .
+
+Check out my pinned projects for my proudest public work.
 <!--
 **InspiredGoat/InspiredGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
